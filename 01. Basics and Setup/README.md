@@ -19,24 +19,24 @@
      - Support for multiple programming paradigms (procedural, object-oriented, functional, etc.)
 
 4. **Installation Steps:**
-   - Download the Python installer from python.org.
+   - Download the Python installer from [python.org](https://www.python.org/).
    - Run the installer, ensuring to add Python to PATH.
    - Verify installation via terminal or command prompt with `python --version` or `python3 --version`.
    - Consider installing a code editor/IDE for better development experience.
    - consider setting up virtual environments using `venv` or `virtualenv`.
-         - To create a virtual environment with `venv`, navigate to your project directory in the terminal and run:      
-               ```
-               # This command creates a new virtual environment named "env" in the current directory.
-               python -m venv env
+   - To create a virtual environment with `venv`, navigate to your project directory in the terminal and run:      
+   ```
 
-               # To Activate the virtual environment:
-               
-               # On Windows:
-               .\env\Scripts\activate
+   python -m venv env # This command creates a new virtual environment named "env" in the current directory.
 
-               # On macOS and Linux:
-               source env/bin/activate
-               ```
+   # To Activate the virtual environment:
+   # On Windows
+   .\env\Scripts\activate
+   
+   # On macOS and Linux
+   source env/bin/activate 
+
+   ```
 
 5. **Running Python Code:**
    - Run Python code through:
