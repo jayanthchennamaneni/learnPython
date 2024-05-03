@@ -41,8 +41,8 @@ class Person:
 
 ```python
 # Creating objects of the Person class
-person1 = Person("Alice", 30)
-person2 = Person("Bob", 25)
+person1 = Person("Kanté", 30)
+person2 = Person("Hazard", 25)
 ```
 
 ### Inheritance
@@ -65,7 +65,7 @@ class Student(Person): # a class Student inheriting from the Person class
 
 ```python
 # Creating objects of the Student class
-student1 = Student("Eve", 22, "S12345")
+student1 = Student("Drogba", 22, "S12345")
 ```
 
 ### Polymorphism
