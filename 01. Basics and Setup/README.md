@@ -24,23 +24,22 @@
    - Verify installation via terminal or command prompt with `python --version` or `python3 --version`.
    - Consider installing a code editor/IDE for better development experience.
    - consider setting up virtual environments using `venv` or `virtualenv`.
-   - To create a virtual environment with `venv`, navigate to your project directory in the terminal and run:      
-   ```
+   - To create a virtual environment with `venv`, navigate to your project directory in the terminal and run:
 
-   python -m venv env # This command creates a new virtual environment named "env" in the current directory.
+      ```
+      # This command creates a new virtual environment named "env" in the current directory.
+      python -m venv env
 
-   # To Activate the virtual environment:
-   # On Windows
-   .\env\Scripts\activate
-   
-   # On macOS and Linux
-   source env/bin/activate 
+      # To Activate the virtual environment On Windows
+      .\env\Scripts\activate
 
-   ```
+      # To Activate the virtual environment On macOS or Linux
+      source env/bin/activate 
+      ```
 
 5. **Running Python Code:**
    - Run Python code through:
-     - Interactive Interpreter
-     - Script Execution
+     - Interactive Interpreter in command-line interface (CLI)/terminal
+     - Script Execution from CLI/terminal
      - Integrated Development Environments (IDEs) like PyCharm, VSCode, or Jupyter Notebook.
 
