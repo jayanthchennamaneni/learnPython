@@ -1,4 +1,3 @@
----
 # Python Basics and Setting up Environment:
 
 **Python Overview:**
