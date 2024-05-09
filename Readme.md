@@ -27,26 +27,31 @@ This comprehensive guide covers a wide range of Python topics, from basic fundam
 ---
 
 **01. Baiscs and Setting up environment**
+
 Learn how to set up your development environment and grasp the basics of Python programming.
 
 ---
 
 **02. Fundamentals**
+
 Master essential Python Fundamental concepts including variables, data types, loops, functions, parameters and arguments, return statements, user input, strings, formatting strings, lists, tuples, dictionaries, sets, boolean expressions, and more.
 
 ---
 
 **03. OOP (Object-Oriented Programming)**
+
 Explore object-oriented programming principles such as inheritance, encapsulation, and polymorphism.
 
 ---
 
 **04. Error Handling**
+
 Learn how to handle errors and exceptions gracefully in Python including try-except blocks, raising exceptions, and logging.
 
 ---
 
-## 05. File Handling
+## 05. File Handling**
+
 Explore reading from and writing to files in Python, working with file objects, and managing file paths.
 
 ---
