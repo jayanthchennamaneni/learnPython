@@ -41,7 +41,7 @@ Explore object-oriented programming principles such as inheritance, encapsulatio
 
 ---
 
-## 04. Error Handling
+- 04. Error Handling
 Learn how to handle errors and exceptions gracefully in Python including try-except blocks, raising exceptions, and logging.
 
 ---
