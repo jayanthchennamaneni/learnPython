@@ -1,9 +1,7 @@
 ---
-
-## Python Fundamentals:
+# Python Basics and Setting up Environment:
 
 **Python Overview:**
-
    - Python is a high-level, interpreted programming language known for its simplicity, readability, and versatility. It finds applications in web development, data analysis, AI, scientific computing and more. Its popularity is driven by a large standard library, active community, and support for various programming paradigms.
 
 **Python 2 vs. Python 3:**
