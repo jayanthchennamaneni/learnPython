@@ -2,7 +2,9 @@
 
 # Python Programming Project Outline
 
-Welcome to learnPython project!! This comprehensive guide covers a wide range of Python topics, from basic fundamentals to advanced concepts and best practices. Below is a structured outline of the project, designed to help you navigate through various aspects of Python development efficiently.(Work under progress)
+Welcome to learnPython project!! 
+
+This comprehensive guide covers a wide range of Python topics, from basic fundamentals to advanced concepts and best practices. Below is a structured outline of the project, designed to help you navigate through various aspects of Python development efficiently.(Work under progress)
 
 ## Table of Contents
 
@@ -24,17 +26,17 @@ Welcome to learnPython project!! This comprehensive guide covers a wide range of
 
 ---
 
-## 01. Baiscs and Setting up environment
+- 01. Baiscs and Setting up environment
 Learn how to set up your development environment and grasp the basics of Python programming.
 
 ---
 
-## 02. Fundamentals
+- 02. Fundamentals
 Master essential Python Fundamental concepts including variables, data types, loops, functions, parameters and arguments, return statements, user input, strings, formatting strings, lists, tuples, dictionaries, sets, boolean expressions, and more.
 
 ---
 
-## 03. OOP (Object-Oriented Programming)
+- 03. OOP (Object-Oriented Programming)
 Explore object-oriented programming principles such as inheritance, encapsulation, and polymorphism.
 
 ---
@@ -101,7 +103,7 @@ Follow best practices for writing clean, efficient, and maintainable Python code
 
 This project aims to provide a comprehensive resource for Python developers of all levels, from beginners to experienced professionals, to enhance their skills, improve their code quality, and build robust and scalable Python applications. Each folder contains a README file detailing the specific topics covered and examples in some cases for further learning and exploration.
 
-Good Luck
+Good Luck!!!
 
 ---
  
