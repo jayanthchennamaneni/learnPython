@@ -1,12 +1,12 @@
-# Python Programming Project Outline
 ---
+
+# Python Programming Project Outline
 
 Welcome to learnPython project!! (Work under progress, Will add more resources/examples soon)
 
 This comprehensive guide covers a wide range of Python topics, from basic fundamentals to advanced concepts and best practices. Below is a structured outline of the project, designed to help you navigate through various aspects of Python development efficiently.
 
 ## Table of Contents
---------------------
 
 1. [Basics and Setup](#01-basics-and-setup)
 2. [Fundamentals](#02-fundamentals)
@@ -29,72 +29,58 @@ This comprehensive guide covers a wide range of Python topics, from basic fundam
 ### 01. Baiscs and Setting up environment
 Learn how to set up your development environment and grasp the basics of Python programming.
 
----
 
 ### 02. Fundamentals
 Exploring essential Python Fundamental concepts including variables, data types, loops, functions, parameters and arguments, return statements, user input, strings, formatting strings, lists, tuples, dictionaries, sets, boolean expressions, and more.
 
----
 
 ### 03. OOP (Object-Oriented Programming)
 Explore object-oriented programming principles such as inheritance, encapsulation, and polymorphism.
 
----
 
 ### 04. Error Handling
 Learn how to handle errors and exceptions gracefully in Python including try-except blocks, raising exceptions, and logging.
 
----
 
 ### 05. File Handling
 Explore reading from and writing to files in Python, working with file objects, and managing file paths.
 
----
 
 ### 06. Functional Programming
 Understand functional programming concepts like higher-order functions and lambda functions.
 
----
 
 ### 07. Decorators and Context Managers
 Exploring decorators and context managers which are modifying or enhancing the behavior of functions and managing resources.
 
----
 
 ### 08. Generators and Iterators
 Explore the power of generators and iterators for efficient data processing, powerful constructs for creating iterable sequences and lazy evaluation.
 
----
 
 ### 09. Regular Expressions
 Explore regular expressions in Python for pattern matching and text manipulation tasks.
 
----
 
 ### 10. Concurrency and Parallelism
 Explore concurrent and parallel programming techniques in Python including multithreading, multiprocessing, asyncio, and asynchronous programming techniques.
 
----
 
 ### 11. Networking and Socket
 Understand networking and socket programming for building networked applications and communication protocols.
 
----
 
 ### 12. Database Access and ORM
 Interact with databases using Python and Object-Relational Mapping (ORM).
 
----
 
 ### 13. Testing and Debugging
 Exploring testing and debugging techniques to ensure the reliability of code, including unit testing, integration testing, debugging tools, profiling, and optimization.
 
----
 
 ### 14. Performance Optimization
 Optimize Python code for better performance and scalability, including algorithmic optimizations, memory management, caching, and parallel processing.
 
----
 
 ### 15. Best Practices
 Follow best practices for writing clean, efficient, and maintainable Python code. It covers code organization, formatting, documentation, error handling, testing, and more.
