@@ -1,4 +1,4 @@
-## Functional Programming Techniques in Python
+# Functional Programming Techniques in Python
 
 Functional programming is a paradigm that emphasizes the evaluation of mathematical functions and avoids changing state and mutable data. Python, while primarily object-oriented, supports functional programming techniques through features like lambda functions, map, filter, and reduce functions.
 

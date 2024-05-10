@@ -1,4 +1,4 @@
-## Performance Optimization in Python
+# Performance Optimization in Python
 
 Performance optimization in Python involves improving the speed, memory usage, and efficiency of your code to enhance its responsiveness and scalability. Python provides various techniques, tools, and best practices for optimizing the performance of your applications.
 

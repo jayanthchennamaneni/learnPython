@@ -1,4 +1,4 @@
-## Regular Expressions in Python
+# Regular Expressions in Python
 
 Regular expressions (regex) are a powerful tool for searching, matching, and manipulating text based on patterns. Python provides built-in support for regular expressions through the `re` module, allowing you to perform complex string operations efficiently.
 

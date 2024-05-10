@@ -1,4 +1,4 @@
-## Networking and Socket Programming in Python
+# Networking and Socket Programming in Python
 
 - Networking and socket programming in Python enable communication between different processes, machines, or devices over a network. Python provides built-in modules and libraries to facilitate various network-related tasks, such as creating sockets, sending and receiving data, and implementing network protocols.
 - Networking and socket programming in Python enable developers to create a wide range of networked applications, from simple client-server interactions to complex distributed systems. 

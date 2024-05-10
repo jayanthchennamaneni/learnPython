@@ -1,4 +1,4 @@
-## Generators and Iterators in Python
+# Generators and Iterators in Python
 
 Generators and iterators are features in Python that enable efficient handling of sequences of data, allowing for lazy evaluation and memory efficiency. They are particularly useful for working with large datasets and infinite sequences.
 

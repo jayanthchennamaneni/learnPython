@@ -1,4 +1,4 @@
-## Error Handling and Exception Management in Python
+# Error Handling and Exception Management in Python
 
 Error handling and exception management are crucial aspects of Python programming to gracefully handle unexpected errors and exceptions. Python provides robust mechanisms for identifying, handling, and raising exceptions.
 

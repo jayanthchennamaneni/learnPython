@@ -1,4 +1,4 @@
-## Concurrency and Parallelism in Python
+# Concurrency and Parallelism in Python
 
 - Concurrency and parallelism are techniques used to achieve multitasking and improve performance in Python programs.
 

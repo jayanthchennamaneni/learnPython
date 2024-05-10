@@ -1,22 +1,22 @@
-## Object-Oriented Programming (OOP) in Python
+# Object-Oriented Programming (OOP) in Python
 
 Object-Oriented Programming (OOP) is a programming paradigm that models real-world entities as objects with attributes (properties) and methods (behaviors). Python supports OOP principles such as encapsulation, inheritance, and polymorphism, facilitating better code organization and reusability.
 
-### Concepts of OOP:
+### Concepts of OOP
 
-1. **Classes and Objects:**
+1. **Classes and Objects**
    - A class serves as a blueprint for creating objects, defining their attributes and methods.
    - An object is an instance of a class, representing a specific instance with its own data and behavior.
 
-2. **Inheritance:**
+2. **Inheritance**
    - Inheritance is a mechanism where a new class (subclass) can inherit properties and behavior from an existing class (superclass or parent class).
    - Subclasses can extend or override the functionality of the superclass.
 
-3. **Polymorphism:**
+3. **Polymorphism**
    - Polymorphism enables objects of different classes to be treated as objects of a common superclass.
    - It allows methods to have different implementations based on the object they are called on.
 
-4. **Encapsulation:**
+4. **Encapsulation**
    - Encapsulation is the bundling of data (attributes) and methods that operate on the data into a single unit (class).
    - It hides the internal state of objects from the outside, and only exposes the necessary interfaces for interaction.
 
@@ -84,7 +84,7 @@ print(introduce(person1))   # Output: "Hello, my name is Alice and I am 30 years
 print(introduce(student1))  # Output: "Hello, my name is Eve and I am 22 years old."
 ```
 
-These OOP concepts empower developers to create modular, maintainable, and extensible code in Python.
+ OOP concepts empower developers to create modular, maintainable, and extensible code in Python.
 
 ---
 

@@ -1,5 +1,3 @@
----
-
 # Python Programming Project Outline
 
 Welcome to learnPython project!! (Work under progress, Will add more resources/examples soon)

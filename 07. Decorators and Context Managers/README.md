@@ -1,4 +1,4 @@
-## Decorators and Context Managers in Python
+# Decorators and Context Managers in Python
 
 Decorators and context managers are powerful tools for enhancing the functionality and robustness of your Python code. By leveraging decorators to modify function behavior and context managers to manage resources efficiently, you can write cleaner, more concise, and more maintainable code.
 

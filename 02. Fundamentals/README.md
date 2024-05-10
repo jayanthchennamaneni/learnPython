@@ -1,4 +1,4 @@
-## Python Fundamentals
+# Python Fundamentals
 
 ### Variables
 Variables in Python are containers used to store data. They serve as named references to objects in memory. Python is dynamically typed, meaning variables do not require explicit declaration of data types and can change types dynamically. Variable names must follow certain rules:
