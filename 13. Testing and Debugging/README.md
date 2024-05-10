@@ -67,7 +67,7 @@
 
 - **Optimization:** Optimize code for performance by identifying and refactoring inefficient algorithms, reducing memory usage, and minimizing I/O operations.
 
-### Best Practices
+## Best Practices
 
 - **Write Readable Tests:** Write clear, concise, and descriptive test cases with meaningful names and assertions to enhance readability and maintainability.
 
