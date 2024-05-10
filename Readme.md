@@ -1,6 +1,6 @@
 # Python Programming Project Outline
 
-Welcome to learnPython project!! (Work under progress, Will add more resources/examples soon)
+Welcome to learnPython project!! (**Work in progress, Will add more resources/examples soon**)
 
 This comprehensive guide covers a wide range of Python topics, from basic fundamentals to advanced concepts and best practices. Below is a structured outline of the project, designed to help you navigate through various aspects of Python development efficiently.
 
