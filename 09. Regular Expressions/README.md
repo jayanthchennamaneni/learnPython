@@ -4,7 +4,7 @@ Regular expressions (regex) are a powerful tool for searching, matching, and man
 
 Regular expressions are a versatile tool for text processing and manipulation in Python. By mastering regular expressions, you can perform sophisticated string operations efficiently, making your code more expressive and powerful.
 
-### Basic Regular Expression Operations
+## Basic Regular Expression Operations
 
 - **Pattern Matching:** Use the `re.match()` function to search for a pattern at the beginning of a string.
 
@@ -31,7 +31,7 @@ Regular expressions are a versatile tool for text processing and manipulation in
   match = pattern.match(text)
   ```
 
-### Matching and Grouping
+## Matching and Grouping
 
 - **Grouping:** Use parentheses `()` to group parts of a pattern together and extract matched substrings.
 
@@ -42,7 +42,7 @@ Regular expressions are a versatile tool for text processing and manipulation in
   group2 = match.group(2)
   ```
 
-### Special Characters and Quantifiers
+## Special Characters and Quantifiers
 
 - **Special Characters:** Regular expressions support special characters such as `.` (any character), `^` (start of string), `$` (end of string), etc.
 
@@ -56,7 +56,7 @@ Regular expressions are a versatile tool for text processing and manipulation in
   pattern = r'\d+'  # Matches one or more digits
   ```
 
-### Character Classes and Escaping
+## Character Classes and Escaping
 
 - **Character Classes:** Use square brackets `[]` to specify a set of characters to match.
 
@@ -70,7 +70,7 @@ Regular expressions are a versatile tool for text processing and manipulation in
   pattern = r'\$'  # Matches a literal dollar sign
   ```
 
-### Substitution and Replacement
+## Substitution and Replacement
 
 - **Substitution:** Use the `re.sub()` function to replace occurrences of a pattern in a string with a specified replacement.
 
@@ -79,7 +79,7 @@ Regular expressions are a versatile tool for text processing and manipulation in
   new_text = re.sub(r'world', 'Python', text)
   ```
 
-### Advanced Operations and Flags
+## Advanced Operations and Flags
 
 - **Flags:** Use flags such as `re.IGNORECASE`, `re.MULTILINE`, etc., to modify the behavior of regular expression operations.
 

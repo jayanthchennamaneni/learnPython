@@ -2,7 +2,7 @@
 
 Decorators and context managers are powerful tools for enhancing the functionality and robustness of your Python code. By leveraging decorators to modify function behavior and context managers to manage resources efficiently, you can write cleaner, more concise, and more maintainable code.
 
-### Decorators
+## Decorators
 
 - **Decorators:** Decorators are functions that wrap other functions or methods to modify their behavior. They are commonly used for adding pre-processing, post-processing, or cross-cutting concerns to functions.
 
@@ -20,7 +20,7 @@ Decorators and context managers are powerful tools for enhancing the functionali
       return f"Hello, {name}!"
   ```
 
-### Context Managers (using `with` Statement)
+## Context Managers (using `with` Statement)
 
 - **Context Managers:** Context managers allow you to manage resources and perform setup and cleanup actions automatically. They are commonly used with the `with` statement.
 
@@ -41,7 +41,7 @@ Decorators and context managers are powerful tools for enhancing the functionali
       contents = file.read()
   ```
 
-### Built-in Decorators and Context Managers
+## Built-in Decorators and Context Managers
 
 - **Built-in Decorators and Context Managers:** Python provides several built-in decorators and context managers, such as `@staticmethod`, `@classmethod`, `@property`, and `with open() as file`.
 
@@ -60,7 +60,7 @@ Decorators and context managers are powerful tools for enhancing the functionali
           pass
   ```
 
-### Using Decorators and Context Managers Together
+## Using Decorators and Context Managers Together
 
 - **Using Decorators and Context Managers Together:** Decorators and context managers can be used together to create powerful and expressive code.
 

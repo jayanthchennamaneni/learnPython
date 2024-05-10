@@ -2,7 +2,7 @@
 
 Error handling and exception management are crucial aspects of Python programming to gracefully handle unexpected errors and exceptions. Python provides robust mechanisms for identifying, handling, and raising exceptions.
 
-### Try-Except Blocks
+## Try-Except Blocks
 
 **Try-Except Blocks:** Use a `try` block to wrap code that may raise exceptions, while `except` blocks catch and handle specific types of exceptions.
 
@@ -16,7 +16,7 @@ except ZeroDivisionError:
     print("Error: Division by zero!")
 ```
 
-### Handling Multiple Exceptions
+## Handling Multiple Exceptions
 
 **Handling Multiple Exceptions:** Use multiple `except` blocks to handle different types of exceptions.
 
@@ -32,7 +32,7 @@ except IOError: # Handle Input/output operations error
     print("Error: Unable to read file!")
 ```
 
-### Else and Finally Blocks
+## Else and Finally Blocks
 
 **Else Block:** An `else` block is executed if no exceptions occur in the `try` block.
 **Finally Block:** A `finally` block is always executed, regardless of whether an exception occurs or not. It is often used for cleanup actions.
@@ -51,7 +51,7 @@ finally: # Execute regardless of whether an exception occurred or not
         file.close()
 ```
 
-### Raising Exceptions
+## Raising Exceptions
 
 **Raising Exceptions:** Use the `raise` statement to indicate error conditions in your code.
 
@@ -61,7 +61,7 @@ if x < 0:
     raise ValueError("Invalid value: x must be non-negative")
 ```
 
-### Custom Exception Classes
+## Custom Exception Classes
 
 **Custom Exception Classes:** Define custom exception classes by subclassing built-in exception classes or the Exception base class.
 

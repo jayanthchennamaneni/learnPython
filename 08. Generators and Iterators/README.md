@@ -2,7 +2,7 @@
 
 Generators and iterators are features in Python that enable efficient handling of sequences of data, allowing for lazy evaluation and memory efficiency. They are particularly useful for working with large datasets and infinite sequences.
 
-### Benefits of Generators and Iterators
+## Benefits of Generators and Iterators
 
 - **Lazy Evaluation:** Generators and iterators produce values lazily, only when needed, which saves memory and improves performance, especially for large datasets or infinite sequences.
 
@@ -12,7 +12,7 @@ Generators and iterators are features in Python that enable efficient handling o
 
 Generators and iterators are powerful constructs in Python for efficient handling of sequences of data. By using generators, iterators, and generator expressions, you can write concise and memory-efficient code for various tasks, such as data processing, numerical computations, and algorithmic problems.
 
-### Iterators
+## Iterators
 
 - **Iterators:** Iterators are objects that implement the iterator protocol, allowing them to be iterated over using a loop or other iteration constructs. They produce values lazily, one at a time, and maintain state between iterations.
 
@@ -38,7 +38,7 @@ Generators and iterators are powerful constructs in Python for efficient handlin
       print(item)
   ```
 
-### Generators
+## Generators
 
 - **Generators:** Generators are functions that use the `yield` keyword to produce a series of values lazily. They are more concise and easier to use than custom iterators.
 
@@ -54,7 +54,7 @@ Generators and iterators are powerful constructs in Python for efficient handlin
       print(item)
   ```
 
-### Generator Expressions
+## Generator Expressions
 
 - **Generator Expressions:** Generator expressions are similar to list comprehensions but return a generator object instead of a list. They are useful for creating generators without defining a separate function.
 

@@ -6,7 +6,7 @@
 
 - While they address similar goals, they operate at different levels and have distinct implementations in Python.
 
-### Concurrency
+## Concurrency
 
 - **Concurrency:** Concurrency is the ability of a program to execute multiple tasks simultaneously, making efficient use of CPU time by interleaving the execution of tasks.
 
@@ -35,7 +35,7 @@
     asyncio.run(main())
     ```
 
-### Parallelism
+## Parallelism
 
 - **Parallelism:** Parallelism involves executing multiple tasks simultaneously across multiple processors or cores, enabling faster execution of CPU-bound tasks.
 
@@ -63,13 +63,13 @@
         executor.submit(worker)
     ```
 
-### Choosing Between Concurrency and Parallelism
+## Choosing Between Concurrency and Parallelism
 
 - **Concurrency vs. Parallelism:** Concurrency is suitable for I/O-bound tasks that spend a lot of time waiting for external resources (e.g., network, disk). Parallelism is suitable for CPU-bound tasks that can be divided into independent subtasks and executed simultaneously.
 
 - **GIL Limitation:** Python's Global Interpreter Lock (GIL) restricts multithreaded Python programs to run on a single CPU core at a time, limiting the effectiveness of threading for parallelism.
 
-### Hybrid Approaches
+## Hybrid Approaches
 
 - **Hybrid Approaches:** Combining concurrency and parallelism techniques, such as using asynchronous programming (asyncio) with multiprocessing, can maximize performance and resource utilization in Python programs.
 

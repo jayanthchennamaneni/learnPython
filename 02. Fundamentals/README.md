@@ -9,7 +9,7 @@ Variables in Python are containers used to store data. They serve as named refer
 ```python
 # Examples of Variables
 x = 10
-name = "Kante"
+name = "Kanté"
 is_active = True
 
 # Variable reassignment
@@ -31,11 +31,11 @@ Python supports various data types, including:
 # Examples of data types
 age = 25 # Integer
 height = 5.9 # Float
-name = "Kante" # String
+name = "Kanté" # String
 is_active = True # Boolean
 numbers = [1, 2, 3] # List
 coordinates = (10, 20) # Tuple
-person = {"name": "Kante", "age": 30} # Dictionary
+person = {"name": "Kanté", "age": 30} # Dictionary
 set1 = {1, 2, 3, 4, 5} # set
 ```
 

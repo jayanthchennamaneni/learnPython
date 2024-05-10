@@ -4,7 +4,7 @@
 
 - Database access and ORM frameworks in Python provide powerful tools for working with relational databases and abstracting away the complexities of SQL queries and database interactions. By leveraging ORM frameworks and best practices for database access, you can build scalable, maintainable, and efficient database-driven applications with ease.
 
-### Basic Database Access
+## Basic Database Access
 
 - **Database Connectivity:** Python provides various database drivers and libraries, such as `sqlite3`, `MySQLdb`, `psycopg2`, and `cx_Oracle`, for connecting to different types of databases.
 
@@ -30,7 +30,7 @@
       print(row)
   ```
 
-### Object-Relational Mapping (ORM)
+## Object-Relational Mapping (ORM)
 
 - **ORM Frameworks:** ORM frameworks, such as SQLAlchemy and Django ORM, provide high-level abstractions for interacting with databases using Python objects.
 
@@ -74,7 +74,7 @@
   session.commit()
   ```
 
-### Database Migration and Schema Management
+## Database Migration and Schema Management
 
 - **Migration Tools:** Use migration tools like Alembic (for SQLAlchemy) or Django migrations (for Django ORM) to manage database schema changes and versioning.
 
@@ -86,7 +86,7 @@
 
 - **Schema Definition:** Define database schema using migration scripts or ORM model definitions to create, modify, or delete database tables and columns.
 
-### Connection Pooling and Performance Optimization
+## Connection Pooling and Performance Optimization
 
 - **Connection Pooling:** Use connection pooling techniques to improve performance by reusing database connections and reducing connection overhead.
 

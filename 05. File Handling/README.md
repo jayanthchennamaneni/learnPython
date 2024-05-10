@@ -2,7 +2,7 @@
 
 File handling and input/output (I/O) operations are fundamental tasks in Python for interacting with files. Python provides built-in functions and methods to perform various file operations efficiently.
 
-### Opening and Closing Files
+## Opening and Closing Files
 
 **Opening Files:** Use the `open()` function to open a file in different modes such as read mode `'r'`, write mode `'w'`, or append mode `'a'`.
 
@@ -17,7 +17,7 @@ file = open("example.txt", "r")
 file.close()
 ```
 
-### Reading from Files
+## Reading from Files
 
 **Reading Entire File:** Use the `read()` method to read the entire contents of the file as a single string.
 
@@ -31,7 +31,7 @@ contents = file.read()
 line = file.readline()
 ```
 
-### Writing to Files
+## Writing to Files
 
 **Writing to Files:** Open a file in write mode `'w'` or append mode `'a'` and use the `write()` method to write data to the file.
 
@@ -48,7 +48,7 @@ lines = ["Line 1\n", "Line 2\n", "Line 3\n"]
 file.writelines(lines)
 ```
 
-### Input/Output Operations
+## Input/Output Operations
 
 **Reading User Input:** Use the `input()` function to prompt the user for input from the console.
 
@@ -62,7 +62,7 @@ name = input("Enter your name: ")
 print("Hello, world!")
 ```
 
-### Using Context Managers (with Statement)
+## Using Context Managers (with Statement)
 
 **Using Context Managers:** Use the `with` statement to automatically handle opening and closing of files, ensuring proper resource management.
 
@@ -71,7 +71,8 @@ with open("example.txt", "r") as file:
     contents = file.read()
 # File automatically closed after exiting the block
 ```
-### Error Handling
+
+## Error Handling
 
 **Error Handling:** Handle file-related errors using try-except blocks to ensure robustness and graceful error handling.
 
