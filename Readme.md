@@ -1,8 +1,11 @@
 # Python Programming Project Outline
 
-Welcome to learnPython project!! (**Work in progress, Will add more resources/examples soon**)
+Welcome to learnPython project! (**Work in progress, Will add more resources/examples soon**)
 
 This comprehensive guide covers a wide range of Python topics, from basic fundamentals to advanced concepts and best practices. Below is a structured outline of the project, designed to help you navigate through various aspects of Python development efficiently.
+
+This project aims to provide a comprehensive resource for Python developers of all levels, from beginners to experienced professionals, to enhance their skills, improve their code quality, and build robust and scalable Python applications. Each folder contains a README file detailing the specific topics covered and examples in some cases for further learning and exploration.
+
 
 ## Table of Contents
 
@@ -82,10 +85,6 @@ Optimize Python code for better performance and scalability, including algorithm
 
 ### 15. Best Practices
 Follow best practices for writing clean, efficient, and maintainable Python code. It covers code organization, formatting, documentation, error handling, testing, and more.
-
----
-
-This project aims to provide a comprehensive resource for Python developers of all levels, from beginners to experienced professionals, to enhance their skills, improve their code quality, and build robust and scalable Python applications. Each folder contains a README file detailing the specific topics covered and examples in some cases for further learning and exploration.
 
 Good Luck!
 

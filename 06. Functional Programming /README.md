@@ -2,7 +2,6 @@
 
 Functional programming is a paradigm that emphasizes the evaluation of mathematical functions and avoids changing state and mutable data. Python, while primarily object-oriented, supports functional programming techniques through features like lambda functions, map, filter, and reduce functions.
 
-### Lambda Functions
 
 **Lambda Functions:** These are small, inline functions defined using the `lambda` keyword.
 
@@ -10,8 +9,6 @@ Functional programming is a paradigm that emphasizes the evaluation of mathemati
 # Syntax: lambda arguments: expression
 square = lambda x: x ** 2
 ```
-
-### Map Function
 
 **Map Function:** Applies a given function to each item in an iterable and returns an iterator of the results.
 
@@ -21,8 +18,6 @@ squares = map(lambda x: x ** 2, numbers) # 'squares' will be a map object (itera
 squares_list = list(squares) # output: [1, 4, 9, 16, 25]
 ```
 
-### Filter Function
-
 **Filter Function:** Applies a given predicate function to each item in an iterable and returns items for which the function returns `True`.
 
 ```python
@@ -30,8 +25,6 @@ numbers = [1, 2, 3, 4, 5]
 even_numbers = filter(lambda x: x % 2 == 0, numbers)
 even_numbers_list = list(even_numbers) # output: [2, 4]
 ```
-
-### Reduce Function (Python 3)
 
 **Reduce Function:** Applies a binary function to the items of an iterable, cumulatively, from left to right, to reduce the iterable to a single value.
 
@@ -41,16 +34,12 @@ numbers = [1, 2, 3, 4, 5]
 sum_of_numbers = reduce(lambda x, y: x + y, numbers) # x and y in the lambda function represent consecutive elements from the list, and at each step, they are updated to the result of the previous operation and the next element from the list, respectively.
 ```
 
-### List Comprehensions
-
 **List Comprehensions:** Provide a concise way to create lists based on existing lists or iterables.
 
 ```python
 numbers = [1, 2, 3, 4, 5]
 squares = [x ** 2 for x in numbers]
 ```
-
-### Generator Expressions
 
 **Generator Expressions:** Similar to list comprehensions but return a generator object, generating values lazily, one at a time.
 
